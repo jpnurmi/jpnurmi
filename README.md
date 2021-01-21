@@ -8,5 +8,5 @@
 ![](https://img.shields.io/badge/-Yocto-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAZ8AAAGfAFyUqRsAAAAB3RJTUUH5QEVEDQkS/Ua2gAAAatJREFUSMftlE1LlVEUhZ/9+vrRDbOgUi5CdoVoogRCYSUh1X9oFA2aBSERNGnaSBo7yEEQCUIRBHELMYJAmtQwrNBJs6IPGmWiT5N94e1C4LS4Cw4c9l6ss/de5xzooIP/E2qo13bCLdWTwGpEfFXHgW/ANjAFfARWIkK1DowBfUAXcFV9FxFP1AZwAvgAvI4IWwcUwAgwowZwCzgKPAQGgCvADfU4cBc4DPTnKoB+dQK4D9SAm8DFageh9gLNJE0Ca8D3iJhTdwPLwCqwGBHNHFEJvImIcXUWeJGdjADzEXHu/Nz7EpwpI2JDvQ0sABPANNDIAurAL+AzMJzi3YCVIr+08X8A9HVvb21sxrOWaafUO2leTb2nPlVX1Cl1UH2sLqtL6v7MP1ePqI/UpvpSHWu/EaeT2GiL781RVGM1tch9kd20cvtauSoK4BhwOSLWq+LAJrBLHUixIeBnxgpgENhSD6aPXWn+H4i/3PNLwHqK7AFeAaPAJ2AIWAKuA7PABeABcAZ4GxFrO3lI9fRjWD2k9qhn1V51VC3V6YxPqgeyk57ON9TBP4jfvOMbDk3sYt0AAAAASUVORK5CYII=)
 
 <a href="https://github.com/jpnurmi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpnurmi&count_private=true&show_icons=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpnurmi&count_private=true&show_icons=true&hide_title=true&bg_color=555555&text_color=ffffff&icon_color=80cdf9&title_color=80cdf9" />
 </a>
