@@ -1,10 +1,10 @@
 # J-P Nurmi
 
-[![Web](https://img.shields.io/badge/-Web-555?style=flat&logo=microsoftedge)](https://jpnurmi.dev/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://linkedin.com/in/jpnurmi)
 [![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)](https://github.com/jpnurmi)
 [![Twitter](https://img.shields.io/badge/-Twitter-555?style=flat&logo=twitter)](https://twitter.com/jpnurmi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://linkedin.com/in/jpnurmi)
 [![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:jpnurmi@gmail.com)
+[![Web](https://img.shields.io/badge/-Web-555?style=flat&logo=microsoftedge)](https://jpnurmi.dev/)
 
 A passionate and dedicated software engineer with nearly 20 years of experience in developing applications, frameworks, and devices.
 
