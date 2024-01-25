@@ -1,3 +1,5 @@
+[![ArkUI](https://img.shields.io/badge/-ArkUI-555?style=flat&logo=harmonyos)]([https://www.harmonyos.com/en/](https://developer.harmonyos.com/en/develop/arkUI))
+[![Bash](https://img.shields.io/badge/-Bash-555?style=flat&logo=gnubash&logoColor=fff)](https://www.iso.org/standard/74528.html)
 [![C](https://img.shields.io/badge/-C-555?style=flat&logo=cplusplus)](https://www.iso.org/standard/74528.html)
 [![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=cplusplus)](https://isocpp.org/)
 [![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=dart)](https://dart.dev/)
