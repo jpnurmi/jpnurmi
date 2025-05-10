@@ -13,6 +13,7 @@
 [![Qt](https://img.shields.io/badge/-Qt-555?style=flat&logo=qt&logoColor=fff)](https://qt.io/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-555?style=flat&logo=raspberrypi)](https://www.raspberrypi.org/)
 [![Rust](https://img.shields.io/badge/-Rust-555?style=flat&logo=rust)](https://www.rust-lang.org/)
+[![Sentry](https://img.shields.io/badge/-Sentry-555?style=flat&logo=sentry)](https://sentry.io/)
 [![Slint](https://img.shields.io/badge/-Slint-555?style=flat&logo=stackblitz)](https://slint.dev/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-555?style=flat&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
